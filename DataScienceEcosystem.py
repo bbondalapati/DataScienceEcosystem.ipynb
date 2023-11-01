@@ -33,7 +33,7 @@
 
 
 # Define the value in minutes
-minutes = 120
+minutes = 200
 
 # Convert minutes to hours
 hours = minutes / 60
